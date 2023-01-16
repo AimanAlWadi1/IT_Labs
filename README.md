@@ -21,8 +21,8 @@
 1. Работа по теме "Разработка проекта компьютерной сети c реализацией VLAN в Cisco Packet Tracer".
 2. Загрузка в Git-репозиторий отчетов о проделанной работе в Cisco Packet Tracer.
 
-[Ссылка на результат]([Аль-Вади.А.pdf](https://github.com/AimanAlWadi1/IT_Labs/files/10427979/-.pdf)
-)
+[Ссылка на результат]([Аль-Вади.А.pdf](https://github.com/AimanAlWadi1/IT_Labs/files/10427979/-.pdf))
+
 
 
 ## ✅Командный проект
